@@ -6,7 +6,7 @@
     "type" : "git",
     "url" : "https://github.com/madsaune/passwordly-cli.git"
   },
-  "homepage": "https://github.com/owner/project#readme",
+  "homepage": "https://github.com/madsaune/passwordly-cli#readme",
   "main": "bin/index.js",
   "bin": {
     "passwordly": "./bin/index.js"
