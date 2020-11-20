@@ -1,10 +1,10 @@
 {
   "name": "passwordly-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to generate random passwords",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/madsaune/passwordly-cli.git"
+    "type": "git",
+    "url": "https://github.com/madsaune/passwordly-cli.git"
   },
   "homepage": "https://github.com/madsaune/passwordly-cli#readme",
   "main": "bin/index.js",
