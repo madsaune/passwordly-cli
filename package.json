@@ -1,0 +1,19 @@
+{
+  "name": "passwordly-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to generate random passwords",
+  "main": "bin/index.js",
+  "bin": {
+    "passwordly": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mads Moi-Aune (https://dotsh.no)",
+  "license": "MIT",
+  "dependencies": {
+    "passwordly": "^0.1.0",
+    "yargs": "^16.1.1"
+  }
+}
